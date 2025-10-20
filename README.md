@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello! I'm Andrés Felipe Patarroyo Muñoz
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="36" alt="hand wave">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40">
 </h1>
 
 <img align="right" width="250px" height="200px" alt="Cyber Matrix" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
